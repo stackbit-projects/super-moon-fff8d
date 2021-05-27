@@ -40,10 +40,11 @@ sections:
             url: /features
             style: secondary
       - title: Civil Litigation
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          For matters involving a lawsuit resulting from a dispute between
+          private parties (individuals or corporations). Cases falling under the
+          civil litigation area of the law are usually concerning matters such
+          as breach of contract, debt collection, malpractice or injury.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
