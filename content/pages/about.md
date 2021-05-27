@@ -28,7 +28,7 @@ sections:
       - content/data/team/dianne-ameter.yaml
   - type: cta_section
     title: Join the Team
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: 'Got what it takes to navigate the '
     actions:
       - label: Contact Us
         url: /contact
