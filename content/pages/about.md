@@ -29,7 +29,7 @@ sections:
   - type: cta_section
     title: Join the Team
     subtitle: >-
-      Got what it takes to navigate cook county real estate law. Come work with
+      Got what it takes to navigate cook county real estate law? Come work with
       us!
     actions:
       - label: Contact Us
