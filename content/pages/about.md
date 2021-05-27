@@ -26,6 +26,7 @@ sections:
     team:
       - content/data/team/miles-tone.yaml
       - content/data/team/dianne-ameter.yaml
+      - content/data/team/dianne-ameter.yaml
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
