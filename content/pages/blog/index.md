@@ -6,7 +6,7 @@ sections:
     align: center
   - type: blog_feed_section
     show_recent: false
-  - title: lorem-ipsum
+  - title: A quick FAQ to help guide you through the legal maze.
     content: >-
       ## Lorem ipsum
 
