@@ -21,11 +21,6 @@ sections:
       ensure every detail of the case is taken into account and used to their
       client's benefit. We also provide follow-up services in cases where paper
       work or applications must be filled.
-  - type: team_section
-    title: Our Team
-    team:
-      - content/data/team/miles-tone.yaml
-      - content/data/team/dianne-ameter.yaml
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
@@ -35,6 +30,11 @@ sections:
         style: secondary
     has_background: true
     background_color: blue
+  - type: team_section
+    title: Our Team
+    team:
+      - content/data/team/miles-tone.yaml
+      - content/data/team/dianne-ameter.yaml
 seo:
   title: Who We Are
   description: This is the about us page
