@@ -5,19 +5,22 @@ sections:
     title: Who We Are
     align: center
   - type: content_section
-    content: >-
-      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
-      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
-      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
-      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
-      adipiscing elit pellentesque habitant.
+    content: >
+      Kaufman and Associates is a father son law firm, and the firm of choice
+      for any and all legal advice and representation in the Chicagoland Area.
+      Specializing in Real Estate Transactions, Evictions, Civil Law, Real
+      Estate Disputes, and Business Law, our skilled and competent Chicago
+      lawyers have years of experience representing individual clients and
+      corporations.
 
 
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
+      Kaufman and Associate's services go way beyond court trials and out of
+      court settlements, however. Our skilled attorneys make it a point to
+      support their clients from the very beginning all the way to the very end,
+      offering counsel, advice, and studying each and every case closely to
+      ensure every detail of the case is taken into account and used to their
+      client's benefit. We also provide follow-up services in cases where paper
+      work or applications must be filled.
   - type: team_section
     title: Our Team
     team:
