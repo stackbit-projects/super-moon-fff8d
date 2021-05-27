@@ -68,17 +68,12 @@ sections:
             url: /features
             style: secondary
       - title: Foreclosure Defense
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Our firm has over 100 active foreclosure defense cases. We work
+          closely with homeowners and banks to get our clients the results they
+          desire. We are firm believers that there is always a solution to every
+          problem, and many foreclosures can be worked out through modifications
+          or short sales, to provide home owners a dignified exit.
         align: left
         image_alt: lorem-ipsum
         image_position: left
