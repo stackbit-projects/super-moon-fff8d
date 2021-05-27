@@ -28,7 +28,7 @@ sections:
       - content/data/team/dianne-ameter.yaml
   - type: cta_section
     title: Join the Team
-    subtitle: 'Got what it takes to navigate the '
+    subtitle: 'Got what it takes to navigate cook county '
     actions:
       - label: Contact Us
         url: /contact
