@@ -62,7 +62,7 @@
                 "new_window": true
             }
         ],
-        "content": "4141 N Western Ave Chicago, IL 60618 n\\ Phone: 773-516-4100 Fax: 773-304-3185"
+        "content": "4141 N Western Ave Chicago, IL 60618 \\n Phone: 773-516-4100 Fax: 773-304-3185"
     },
     "domain": "https://super-moon-fff8d.netlify.app"
 }
