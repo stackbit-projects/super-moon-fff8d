@@ -1,7 +1,7 @@
 ---
 title: Contact
 sections:
-  - title: C
+  - title: Contact a Chicago Legal Specialist
     content: >
       Below is all the information you will need in order to put yourself in
       touch with one of our legal specialists. If you require Chicago legal
