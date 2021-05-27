@@ -1,9 +1,6 @@
 ---
 title: Contact
 sections:
-  - type: hero_section
-    title: Contact
-    align: center
   - title: lorem-ipsum
     content: >
       Below is all the information you will need in order to put yourself in
