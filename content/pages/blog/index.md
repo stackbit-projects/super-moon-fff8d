@@ -1,9 +1,6 @@
 ---
 title: Blog
 sections:
-  - type: hero_section
-    align: center
-    title: Freq
   - type: blog_feed_section
     show_recent: false
   - title: A quick FAQ to help guide you through the legal maze.
