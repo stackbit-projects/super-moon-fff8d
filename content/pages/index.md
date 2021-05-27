@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: 'Chicago Real Estate Lawyer, Foreclosure Defense and Eviction Expert'
+    subtitle: 'Chicago Real Estate Lawyer, Foreclosure Defense and Eviction Experts'
     actions:
       - label: Learn More
         url: /features
