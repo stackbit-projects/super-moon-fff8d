@@ -25,10 +25,12 @@ sections:
     title: Chicago Legal Services
     features:
       - title: Real Estate Law
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Kaufman and Associates provides several real estate law services,
+          including interim, commercial and residential financing and
+          refinancing, rental and leasing, and subdivision based development and
+          zoning. We also provide contract reviews and drafts as well as the
+          purchase or sale of new or used properties.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
