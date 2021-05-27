@@ -54,10 +54,11 @@ sections:
             url: /features
             style: secondary
       - title: Corporate & Commercial Law
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          For matters relative to the creation and maintenance of businesses and
+          corporations. These cases often involve the drawing up of contracts,
+          handling and supervision of all matters relative to mergers,
+          liability, financing and other commercial matters.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
