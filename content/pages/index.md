@@ -2,9 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'Chicago Real Estate Lawyer, Foreclosure Defense and Eviction Expert'
     actions:
       - label: Learn More
         url: /features
