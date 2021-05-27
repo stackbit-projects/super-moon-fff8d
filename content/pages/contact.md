@@ -5,17 +5,14 @@ sections:
     title: Contact
     align: center
   - title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Below is all the information you will need in order to put yourself in
+      touch with one of our legal specialists. If you require Chicago legal
+      advice or representation, do not hesitate to call Kaufman and Associates
+      today. Someone is standing by to help you take your first step towards
+      putting matters of the law behind you. While our specialties include: Real
+      Estate Lawyer, Foreclosure Defense and Eviction, we offer many other legal
+      services.
     type: content_section
   - type: contact_section
 seo:
